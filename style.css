@@ -31,3 +31,8 @@ hr {
     font-size: 2.5rem;
     font-weight: bold;
 }
+.footer {
+    text-align: center;
+    color: white;
+    padding-bottom: 3rem;
+}
