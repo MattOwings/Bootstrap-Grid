@@ -46,3 +46,7 @@ hr {
     color: red;
     font-size: 2.15rem;
 }
+
+.click-ex {
+    cursor: pointer;
+}
